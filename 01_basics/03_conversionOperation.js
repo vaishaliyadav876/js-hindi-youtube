@@ -1,4 +1,6 @@
 let score = "hitesh"
+let score1 = "33abc" // NaN --- type = Number after conversion
+let score2 = null // after number conversion  output = 0
 
 //console.log(typeof score);
 //console.log(typeof(score));
